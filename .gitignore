@@ -1,0 +1,14 @@
+# Ignorar entornos virtuales
+.venv/
+venv/
+
+# Ignorar Excel original grande
+Datos_22-24.xlsx
+
+# Ignorar todos los Excel 
+*.xlsx
+
+# Ignorar archivos temporales y logs
+*.pyc
+__pycache__/
+*.log
