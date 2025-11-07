@@ -5,7 +5,7 @@ openpyxl==3.1.2
 
 # --- Visualización  ---
 matplotlib==3.8.4
-seaborn==0.12.4
+seaborn==0.13.2
 
 # --- Machine Learning ---
 scikit-learn==1.4.2
@@ -13,4 +13,4 @@ scikit-learn==1.4.2
 # --- (para notebooks) ---
 jupyter==1.0.0
 
-
+nbdime==4.0.2
